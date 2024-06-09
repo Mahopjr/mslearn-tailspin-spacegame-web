@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Mahopjunior/85854471-3264-480d-a496-942f47a19361/81c18ce8-bef9-44c2-ae70-0136dcf6989c/_apis/work/boardbadge/ef2e26b9-7a85-4af9-aaa0-501a29ab450e)](https://dev.azure.com/Mahopjunior/85854471-3264-480d-a496-942f47a19361/_boards/board/t/81c18ce8-bef9-44c2-ae70-0136dcf6989c/Microsoft.RequirementCategory)
 
 # Contributing
 
